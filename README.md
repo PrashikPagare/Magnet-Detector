@@ -1,1 +1,1 @@
-# Obstacle-Avoidance-Detector
+# Magnet-Detector
